@@ -1,0 +1,2 @@
+Sample file for AZ-104 Lab 07.
+This file is uploaded to Azure Blob Storage and Azure Files by Terraform.
